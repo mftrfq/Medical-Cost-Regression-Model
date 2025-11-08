@@ -1,4 +1,4 @@
-# 🏥 Medical Cost Regression Model (Deployment Ready)
+# Medical Cost Regression Model
 
 ## 📖 Overview
 This project develops a **regression model** to predict individual **medical insurance costs** based on various demographic and lifestyle features such as age, BMI, smoking status, and region.  
